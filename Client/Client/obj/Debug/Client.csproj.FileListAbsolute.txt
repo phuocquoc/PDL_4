@@ -1,0 +1,32 @@
+C:\Users\nguye\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\nguye\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\nguye\Desktop\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\nguye\Desktop\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\nguye\Desktop\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\Client\Client\obj\Debug\Client.exe
+C:\Users\nguye\Desktop\Client\Client\obj\Debug\Client.pdb
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Client\Client\bin\Debug\Client.exe
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Client\Client\bin\Debug\Client.pdb
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Client\Client\obj\Debug\Client.exe
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Client\Client\obj\Debug\Client.pdb
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Client\Client\bin\Debug\Client.exe
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Client\Client\bin\Debug\Client.pdb
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Client\Client\obj\Debug\Client.exe
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Client\Client\obj\Debug\Client.pdb
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Client\Client\bin\Debug\Client.exe
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Client\Client\bin\Debug\Client.pdb
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Client\Client\obj\Debug\Client.exe
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Client\Client\obj\Debug\Client.pdb

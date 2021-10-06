@@ -1,0 +1,64 @@
+C:\Users\nguye\Desktop\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\nguye\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\nguye\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\nguye\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\nguye\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\nguye\Desktop\Server\Server\obj\Debug\Server.pdb
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\bin\Debug\Server.exe
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\bin\Debug\Server.pdb
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\obj\Debug\Server.Form1.resources
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\obj\Debug\Server.exe
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\obj\Debug\Server.pdb
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Server\Server\bin\Debug\Server.exe
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Server\Server\bin\Debug\Server.pdb
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Server\Server\obj\Debug\Server.exe
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Server\Server\obj\Debug\Server.pdb
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Server\Server\bin\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Server\Server\bin\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\OneDrive - Danang University of Technology\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Server\Server\Server\bin\Debug\Server.exe
+C:\Users\ADMIN\Downloads\Server\Server\Server\bin\Debug\Server.pdb
+C:\Users\ADMIN\Downloads\Server\Server\Server\bin\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\Downloads\Server\Server\Server\bin\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\Downloads\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Server\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\ADMIN\Downloads\Server\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Server\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Server\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Server\Server\Server\obj\Debug\Server.exe
+C:\Users\ADMIN\Downloads\Server\Server\Server\obj\Debug\Server.pdb
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\Server\bin\Debug\Server.exe
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\Server\bin\Debug\Server.pdb
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\Server\bin\Debug\System.ValueTuple.dll
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\Server\bin\Debug\System.ValueTuple.xml
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\Server\obj\Debug\Server.Form1.resources
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\Server\obj\Debug\Server.csproj.CopyComplete
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\Server\obj\Debug\Server.exe
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\Server\Server\Server\obj\Debug\Server.pdb
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Server\Server\Server\bin\Debug\Server.exe
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Server\Server\Server\bin\Debug\Server.pdb
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Server\Server\Server\bin\Debug\System.ValueTuple.dll
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Server\Server\Server\bin\Debug\System.ValueTuple.xml
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Server\Server\Server\obj\Debug\Server.Form1.resources
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Server\Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Server\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Server\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Server\Server\Server\obj\Debug\Server.csproj.CopyComplete
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Server\Server\Server\obj\Debug\Server.exe
+E:\Năm 3\Đồ Án PDL\code\Sendfile TCP-IP\DBL_4\Server\Server\Server\obj\Debug\Server.pdb
